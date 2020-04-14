@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 15 06:21:36 2020
 
-@author: vivek
-"""
 
 from keras.datasets import mnist
 from keras.models import Sequential
